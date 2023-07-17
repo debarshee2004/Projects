@@ -15,15 +15,18 @@ WebDevSolutions-ProjectsShowcase is a repository where I showcase my mini web pr
 
 🚀 Here are some of the projects showcased in this repository:
 
-1. **Project 1**: [Project Name](link-to-project)  
-   Description: Briefly describe the project, highlighting its purpose, features, and technologies used.
+1. **Project 1**: [Amazon.com Clone](link-to-project)  
 
-2. **Project 2**: [Project Name](link-to-project)  
-   Description: Briefly describe the project, highlighting its purpose, features, and technologies used.
+2. **Project 2**: [Arcadia 2024](link-to-project)  
 
-3. **Project 3**: [Project Name](link-to-project)  
-   Description: Briefly describe the project, highlighting its purpose, features, and technologies used.
+3. **Project 3**: [Calculator](link-to-project)
 
+4. **Project 4**: [Password Generator](link-to-project)
+
+5. **Project 5**: [QR Code Generator](link-to-project)
+
+6. **Project 6**: [Quiz App](link-to-project)
+   
 Feel free to explore the repository to discover more projects and their details!
 
 ## Installation
